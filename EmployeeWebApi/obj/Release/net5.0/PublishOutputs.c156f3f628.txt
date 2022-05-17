@@ -1,0 +1,11 @@
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\EmployeeWebApi.exe
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\EmployeeWebApi.dll
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\EmployeeWebApi.deps.json
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\EmployeeWebApi.runtimeconfig.json
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\EmployeeWebApi.pdb
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Devesh\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
